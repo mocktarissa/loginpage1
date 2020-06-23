@@ -6,7 +6,7 @@ Free to Use take a look at https://mocktarissa.github.io/loginpage1/
 The UI of this project was inspired by :
 https://uidesigndaily.com/posts/sketch-login-log-in-authentication-features-day-1022 
 
-It uses Font Awesome 
+It uses Font Awesome for the Icons.
 
 ## Color Palette 
 - #F3FAFB
