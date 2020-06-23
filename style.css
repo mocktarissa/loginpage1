@@ -41,3 +41,12 @@ form {
     padding: 40px;
     flex: 1;
 }
+.form-control {
+    margin: 10px 0;
+    width: 100%;
+}
+label {
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
