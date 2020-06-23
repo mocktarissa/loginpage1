@@ -108,3 +108,10 @@ input:not([type="checkbox"]) {
     flex: 1.5;
     padding: 40px;
 }
+
+.feature i {
+    color: #2762eb;
+    position: absolute;
+    top: 5px;
+    left: 0;
+}
