@@ -60,6 +60,11 @@ input:not([type="checkbox"]) {
     width: 100%;
 }
 
+input:not([type="checkbox"]):focus{
+    transform: translateY(1px);
+} 
+
+
 .checkbox-container {
     display: flex;
     justify-content: space-between;
