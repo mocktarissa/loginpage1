@@ -8,7 +8,7 @@ https://uidesigndaily.com/posts/sketch-login-log-in-authentication-features-day-
 
 It uses Font Awesome 
 
-##Color Palette 
+## Color Palette 
 - #F3FAFB
 - #252F44
 - #9FA5B5
