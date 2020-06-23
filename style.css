@@ -125,3 +125,7 @@ input:not([type="checkbox"]) {
     line-height: 1.8;
     margin: 5px 0;
 }
+
+@media(max-width: 768px) {
+    
+}
