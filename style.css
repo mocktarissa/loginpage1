@@ -111,7 +111,7 @@ input:not([type="checkbox"]) {
 
 .feature i {
     color: #2762eb;
-    position: absolute;
+    
     top: 5px;
     left: 0;
 }
