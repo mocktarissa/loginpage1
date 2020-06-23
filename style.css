@@ -71,3 +71,8 @@ input:not([type="checkbox"]) {
 .checkbox-container a {
     margin-left: auto;
 }
+
+.checkbox-container label {
+    color: #7a7e8c;
+    font-weight: normal;
+}
