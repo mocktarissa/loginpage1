@@ -93,3 +93,9 @@ input:not([type="checkbox"]) {
     margin: 20px 0;
     width: 100%;
 }
+
+.btn-ghost {
+    background-color: transparent;
+    border-color: #ecf2ff;
+    color: #141c2c;
+}
