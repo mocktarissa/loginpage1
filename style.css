@@ -76,3 +76,20 @@ input:not([type="checkbox"]) {
     color: #7a7e8c;
     font-weight: normal;
 }
+
+.btn {
+    cursor: pointer;
+    background-color: #141c2c;
+    border: 2px solid #141c2c;
+    border-radius: 3px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: inherit;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 10px;
+    margin: 20px 0;
+    width: 100%;
+}
