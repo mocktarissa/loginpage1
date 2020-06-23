@@ -67,3 +67,7 @@ input:not([type="checkbox"]) {
     margin-bottom: 15px;
     width: 100%;
 }
+
+.checkbox-container a {
+    margin-left: auto;
+}
