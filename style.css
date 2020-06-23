@@ -23,7 +23,7 @@ a {
 .container {
     background-color: #fff;
     border-radius: 3px;
-    border: 20px solid #dce7ff;
+    border: -10px solid #dce7ff;
     width: 1000px;
     box-shadow: 0 4px 5px rgba(0,0,0,0.1);
     display: flex;
