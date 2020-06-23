@@ -99,3 +99,8 @@ input:not([type="checkbox"]) {
     border-color: #ecf2ff;
     color: #141c2c;
 }
+
+.btn img {
+    margin-right: 5px;
+    width: 20px;
+}
