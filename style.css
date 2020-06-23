@@ -115,3 +115,7 @@ input:not([type="checkbox"]) {
     top: 5px;
     left: 0;
 }
+
+.feature h3 {
+    margin: 0;
+}
