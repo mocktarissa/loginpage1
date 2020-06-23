@@ -119,3 +119,9 @@ input:not([type="checkbox"]) {
 .feature h3 {
     margin: 0;
 }
+
+.feature p {
+    font-size: 14px;
+    line-height: 1.8;
+    margin: 5px 0;
+}
